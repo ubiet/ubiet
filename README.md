@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ubiet
 - 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning anything about programming
+- 🌱 I’m currently learning everything about programming
 - 💞️ I’m looking to collaborate on every project to boost my skill
 - 📫 How to reach me ubietsan@gmail.com
 
